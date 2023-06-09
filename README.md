@@ -20,7 +20,6 @@ python setup.py develop --user
 
 Prepare datasets: 
 
-- [SynPASS](https://drive.google.com/file/d/1u-5J13CD6MXpWB53apB-L6kZ3hK1JR77/view?usp=sharing)
 - [Stanford2D3D](http://buildingparser.stanford.edu/dataset.html)
 
 ```
@@ -33,17 +32,6 @@ datasets/
 │   ├── area_5a
 │   ├── area_5b
 │   └── area_6
-├── SynPASS
-│   ├── img
-│   │   ├── cloud
-│   │   ├── fog
-│   │   ├── rain
-│   │   └── sun
-│   └── semantic
-│       ├── cloud
-│       ├── fog
-│       ├── rain
-│       └── sun
 ```
 Prepare pretrained weights, which can be found in the public repository of [SegFormer](https://github.com/NVlabs/SegFormer).
 ```
