@@ -1,0 +1,11 @@
+*/__pycache__/*
+*.pyc
+*.pth
+.idea/*
+.vscode/*
+datasets
+pretrained
+workdirs
+build/*
+segmentron.egg-info/*
+checkpoints/*
