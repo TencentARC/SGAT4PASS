@@ -136,9 +136,9 @@ If you are interested in this work, please cite the following works:
 SGAT4PASS [[**PDF**](https://arxiv.org/pdf/2306.03403.pdf)]
 ```
 @article{li2023sgat4pass,
-      title={SGAT4PASS: Spherical Geometry-Aware Transformer for PAnoramic Semantic Segmentation}, 
-      author={Xuewei Li and Tao Wu and Zhongang Qi and Gaoang Wang and Ying Shan and Xi Li},
-      journal={arXiv preprint arXiv:2306.03403},
-      year={2023}
+  title={SGAT4PASS: Spherical Geometry-Aware Transformer for PAnoramic Semantic Segmentation},
+  author={Li, Xuewei and Wu, Tao and Qi, Zhongang and Wang, Gaoang and Shan, Ying and Li, Xi},
+  journal={arXiv preprint arXiv:2306.03403},
+  year={2023}
 }
 ```
